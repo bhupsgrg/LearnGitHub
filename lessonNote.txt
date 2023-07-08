@@ -51,3 +51,24 @@ Combining selectors = selector selectorselector (ancestor chaining method)
 </body>
 
 </html>
+
+--------------------------------------------------------------
+
+Css Positioning
+
+Static
+Absolute
+Relative
+Fixed
+Z-Index
+
+CSS display
+
+Block
+In-Line
+Block-Inline
+None
+
+CSS float
+Float: right/left
+Clear: right/left/both
