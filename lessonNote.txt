@@ -72,3 +72,12 @@ None
 CSS float
 Float: right/left
 Clear: right/left/both
+
+---------------------------------------------------------------
+
+Responsive Website
+
+Media Queries
+CSS Grid
+CSS Flexbox
+External Frameworks e.g Bootstrap
